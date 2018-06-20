@@ -1,2 +1,3 @@
 # Hello-World
-1st step
+Im a newbie who is a hunger for learning.
+
